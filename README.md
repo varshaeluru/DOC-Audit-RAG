@@ -1,8 +1,8 @@
-# ADGM Corporate Agent -- AI Compliance Review System
+# Doc Audit RAG -- AI Compliance Review System
 📽 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1ANWuYHTdw4anvLKB5ovKtA5qTJ7cYDTf/view?usp=sharing)
 ## Overview
 
-The **ADGM Corporate Agent** is an AI-powered compliance review system
+The **Doc Audit RAG** is an AI-powered compliance review system
 designed to analyze ADGM (Abu Dhabi Global Market) legal documents.\
 It performs **document classification**, **regulatory compliance
 verification**, **red flag detection**, and **inline commenting**
@@ -101,9 +101,9 @@ This system uses **Retrieval-Augmented Generation (RAG)** to ensure all AI-drive
 
 ### 2️⃣ Clone the Repository
 
-``` bash
-git clone https://github.com/Satyy7/ADGM-Agent.git
-cd ADGM Agent Submission
+```bash
+git clone <REPOSITORY_URL>
+cd <PROJECT_FOLDER_NAME>
 ```
 
 ### 3️⃣ Create Virtual Environment
