@@ -1,5 +1,4 @@
 # Doc Audit RAG -- AI Compliance Review System
-📽 **Demo Video:** [Watch Here](https://drive.google.com/file/d/1ANWuYHTdw4anvLKB5ovKtA5qTJ7cYDTf/view?usp=sharing)
 ## Overview
 
 The **Doc Audit RAG** is an AI-powered compliance review system
